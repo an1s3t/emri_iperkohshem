@@ -45,8 +45,6 @@
     margin-top: 3px;
 }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 
 
 /*________________________________________________________*/
@@ -90,9 +88,7 @@
 .dropdown:hover .dropdown-content {
     display: block;
 }
-=======
-=======
->>>>>>> 7c19aa25773253705f5311bb968295d64e9c91d7
+
 .topnav {
     height: 600px;
     display: flex;
@@ -119,9 +115,10 @@
     border: 1px solid #ccc;
 
   }
-<<<<<<< HEAD
+
 }
->>>>>>> 7c19aa25773253705f5311bb968295d64e9c91d7
-=======
+
 }
->>>>>>> 7c19aa25773253705f5311bb968295d64e9c91d7
+
+}
+
