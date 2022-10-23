@@ -156,7 +156,7 @@
 #input1{
     width: 385px;
     height: 35px;
-    border-radius: 32px;
+    border-radius: 8px;
     background-color: #f7cdae;
     position: relative;
     top: -26px;
@@ -175,7 +175,7 @@
 #input2{
     width: 385px;
     height: 35px;
-    border-radius: 32px;
+    border-radius: 8px;
     background-color: #f7cdae;
     position: relative;
     top: -26px;
@@ -241,7 +241,7 @@
 #input11{
     width: 385px;
     height: 35px;
-    border-radius: 32px;
+    border-radius: 8px;
     background-color: #f7cdae;
     position: relative;
     top: -26px;
@@ -260,7 +260,7 @@
 #input21{
     width: 385px;
     height: 25px;
-    border-radius: 32px;
+    border-radius: 8px;
     background-color: #f7cdae;
     position: relative;
     top: -26px;
