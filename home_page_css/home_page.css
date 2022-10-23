@@ -123,6 +123,8 @@
   }
 }
 
+/*_______________________LogIn______________________*/
+
 #login_body{
     background-color: #f7cdae;
   }
@@ -158,6 +160,8 @@
     background-color: #f7cdae;
     position: relative;
     top: -26px;
+    outline: none;
+    border:none;
 }
 
 #pass{
@@ -175,6 +179,8 @@
     background-color: #f7cdae;
     position: relative;
     top: -26px;
+    border:none;
+    outline: none;
 }
 
 #libtn{
@@ -201,3 +207,97 @@
     color: #808da8;
 }
 
+
+/*_______________________SignUp______________________*/
+
+#signup_body{
+    background-color: #f7cdae;
+  }
+
+#sign_up{
+   width: 40%;
+    height: 600px;
+    background-color: #373543;
+    margin-left: 28%;
+    text-align: center;
+    position: absolute;
+    border-radius: 20px;
+}
+
+#h21{
+    text-align: center;
+    color: #f7cdae;
+    font-size: 35px;
+}
+
+#uname1{
+    color: #f7cdae;
+    text-align: left;
+    padding: 6px;
+    font-size: larger;
+    margin-left: 35px;
+}
+
+#input11{
+    width: 385px;
+    height: 35px;
+    border-radius: 32px;
+    background-color: #f7cdae;
+    position: relative;
+    top: -26px;
+    border:none;
+    outline: none;
+}
+
+#pass1{
+    color: #f7cdae;
+    text-align: left;
+    padding: 6px;
+    font-size: larger;
+    margin-left: 35px;
+}
+
+#input21{
+    width: 385px;
+    height: 25px;
+    border-radius: 32px;
+    background-color: #f7cdae;
+    position: relative;
+    top: -26px;
+    outline: none;
+    border:none;
+}
+
+#libtn1{
+    width: 190px;
+    height: 40px;
+    border-radius: 34px;
+    margin-top: 10px;
+    background-color: #f1c8aa;
+    color: #4a4a4a;
+}
+
+#libtn1:hover{
+    background-color: #bf997e;
+    
+}
+
+#signup1{
+    color: #697793;
+    position: relative;
+    top: 7px;
+}
+
+#signup1:hover{
+    color: #808da8;
+}
+
+.backhome{
+     color: #697793;
+    position: relative;
+    top: 7px;
+}
+
+.backhome:hover{
+     color: #808da8;
+}
