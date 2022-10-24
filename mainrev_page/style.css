@@ -1,5 +1,6 @@
 body{
 	background-color: #837066;
+	margin:0px;
 }
 
 
@@ -26,7 +27,7 @@ p {
 	margin-top: 80px;
 	display: inline-block;
 	font-size: 20px;
-	
+
 }
 
 .genre:hover p{
@@ -123,7 +124,7 @@ p {
     width: 4%;
     height: auto;
     margin-top: 10px;
-    top: 3px;
+    top: -5px;
 }
 
 
