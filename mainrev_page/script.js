@@ -1,0 +1,1 @@
+let genre = getElementByClass("genre");
