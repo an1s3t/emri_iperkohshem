@@ -1,0 +1,147 @@
+body{
+	background-color: #373543;
+}
+
+h1{
+	color:#c78c7c;
+}
+.review{
+
+	margin-top:70px;
+	margin-left:30px;
+	background-color: #c79c7c;
+	border-radius: 30px;
+	border-bottom-left-radius: 5px;
+	position:absolute;
+    width: 900px;
+}
+
+.review2{
+
+	margin-top:350px;
+	margin-left:30px;
+	background-color: #c79c7c;
+	border-radius: 30px;
+	border-bottom-left-radius: 5px;
+	position:absolute;
+	width:900px;
+} 
+
+
+
+.review3{
+
+	margin-top:700px;
+	margin-left:30px;
+	background-color: #c79c7c;
+	border-radius: 30px;
+	border-bottom-left-radius: 5px;
+	position:absolute;
+	width:900px;
+} 
+
+
+.review4{
+
+	margin-top:40px;
+	margin-left:10px;
+	background-color: #c79c7c;
+	border-radius: 30px;
+	border-bottom-left-radius: 5px;
+	position:absolute;
+	width:900px;
+} 
+
+
+.review5{
+
+	margin-top:70px;
+	margin-left:10px;
+	background-color: #c79c7c;
+	border-radius: 30px;
+	border-bottom-left-radius: 5px;
+	position:absolute;
+	width:900px;
+} 
+
+.review6{
+
+	margin-top:370px;
+	margin-left:10px;
+	background-color: #c79c7c;
+	border-radius: 30px;
+	border-bottom-left-radius: 5px;
+	position:absolute;
+	width:900px;
+} 
+
+.review7{
+
+	margin-top:700px;
+	margin-left:10px;
+	background-color: #c79c7c;
+	border-radius: 30px;
+	border-bottom-left-radius: 5px;
+	position:absolute;
+	width:900px;
+}
+
+
+
+
+
+.profile{
+	width:50px;
+	height: 50px;
+	border-radius: 50px;
+	padding-top: 3px;
+	padding: 8px;
+	position:absolute;
+	display:inline-block;
+
+}
+
+.paragraph{
+	background-color:#c79d7f;
+	padding: 17px;
+	margin-left:10px;
+	margin-bottom:10px;
+    display:inline-block;
+    color:#373543;
+    border-radius: 30px;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.name{
+	display:inline-block;
+	padding-left:30px;
+	margin-left: 45px;
+	font-family: 'Roboto', sans-serif;
+}
+
+.star{
+display:inline-block;
+text-align: right;
+margin-top:10px;
+margin-left: 250px;
+padding-right: 50px;
+size: 200px;
+}
+
+
+
+
+.like{
+	text-align: right;  
+	margin-right: 20px;
+
+
+}
+
+#reply{
+	text-align: right;
+    margin-right: 20px;
+}
+
+

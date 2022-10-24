@@ -1,7 +1,18 @@
-#home_page_body{
-	background-color: #373543;
-	margin: 0px;
+body, html {
+  height: 100%;
+  margin: 0;
 }
+
+.hero-image{
+	margin: 0px;
+     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/Background.jpg");
+  height: 50%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
 
 #menu_div{
 	position: absolute;
@@ -102,8 +113,8 @@
 }
 
 .topnav input{
-    width: 300px;
-    height: 29px;
+    width: 500px;
+    height: 40px;
     border-radius: 16px;
 }
 
