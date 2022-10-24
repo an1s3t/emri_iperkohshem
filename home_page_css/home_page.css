@@ -301,3 +301,43 @@
 .backhome:hover{
      color: #808da8;
 }
+
+#test{
+    width: 100%;
+    height: 300px;
+    background-color: #f7cdae;
+}
+
+
+#hi{
+ border-radius: 50%;
+ height:100px;
+ width: 100px;
+ background: red;
+}
+
+
+
+
+#hi2{
+ border-radius: 50%;
+ height:100px;
+ width: 100px;
+ background: red;
+}
+
+
+#hi3{
+ border-radius: 50%;
+ height:100px;
+ width: 100px;
+ background: red;
+}
+
+
+#hi4{
+ border-radius: 50%;
+ height:100px;
+ width: 100px;
+ background: red;
+}
