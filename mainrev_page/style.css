@@ -13,50 +13,67 @@ body{
 }
 .genre:hover{
 	background-color: #f7cdae;
+	color: #373543;
 }
 
 .genre p:hover{
 	color: #373543;
 }
+
 p {
 	text-align: center;
 	color:#f4ccac;
 	margin-top: 80px;
 	display: inline-block;
+	font-size: 20px;
+	
 }
+
+.genre:hover p{
+	color:#373543;
+}
+
 
 #action {
 	margin:10px;
 	padding:15px;
+	text-align: center;
 }
 
 #drama {
 	margin:10px;
 	padding:15px;
+	text-align: center;
 }
 #horror {
 	margin:10px;
 	padding:15px;
+	text-align: center;
 }
 #comedy {
 	margin:10px;
 	padding:15px;
+	text-align: center;
 }
 #romance {
 	margin:10px;
 	padding:15px;
+	text-align: center;
 }
 #adventure {
 	margin:10px;
 	padding:15px;
+	text-align: center;
 }
 #fantasy {
 	margin:10px;
 	padding:15px;
+	text-align: center;
 }
 #crime {
 	margin: 10px;
 	padding:15px;
+	text-align: center;
 }
 
 
@@ -102,10 +119,11 @@ p {
 }
 
 #logo{
-	position: relative;
+	position: absolute;
     width: 4%;
     height: auto;
     margin-top: 10px;
+    top: 3px;
 }
 
 
