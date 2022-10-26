@@ -1,6 +1,7 @@
 body{
 	background-color: #837066;
 	margin:0px;
+
 }
 
 
@@ -9,6 +10,7 @@ body{
 	background-color:#373543;
 	width:200px;
 	height:200px;
+	border-radius: 20%;
 	
 
 }
@@ -29,6 +31,13 @@ p {
 	font-size: 20px;
 
 }
+
+#cbox{
+	margin: 10px;
+    text-align: center;
+    margin-top: 45px;
+}
+
 
 .genre:hover p{
 	color:#373543;
