@@ -357,4 +357,14 @@ body, html {
     display: flex;
     justify-content: space-around;
     padding: 50px;
+    padding-bottom: 0px;
+}
+
+.names{
+    color: #f7cdae;
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 80px;
+    padding: 50px;
+    padding-bottom: 80px;
 }
