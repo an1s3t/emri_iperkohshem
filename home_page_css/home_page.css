@@ -322,8 +322,8 @@ body, html {
 
 #hi{
  border-radius: 50%;
- height:100px;
- width: 100px;
+ height:150px;
+ width: 150px;
  background: red;
 }
 
@@ -332,23 +332,29 @@ body, html {
 
 #hi2{
  border-radius: 50%;
- height:100px;
- width: 100px;
+ height:150px;
+ width: 150px;
  background: red;
 }
 
 
 #hi3{
  border-radius: 50%;
- height:100px;
- width: 100px;
+ height:150px;
+ width: 150px;
  background: red;
 }
 
 
 #hi4{
  border-radius: 50%;
- height:100px;
- width: 100px;
+ height:150px;
+ width: 150px;
  background: red;
+}
+
+.test {
+    display: flex;
+    justify-content: space-around;
+    padding: 50px;
 }
