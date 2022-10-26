@@ -167,8 +167,9 @@ p {
 .dropbtn{
     font-size: 22px;
     color: #373543;
-    position: absolute;
-    top: -90px;
+    top: 8px;
+    left: 52px;
+    position: relative;
 }
 }
 
@@ -178,5 +179,7 @@ p {
 
 .dropdown:hover .dropdown-content {
     display: block;
+ 	 margin-top: 10px;
+    border-radius: 41px;
 }
 
