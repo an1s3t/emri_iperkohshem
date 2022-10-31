@@ -4,7 +4,12 @@ body{
 
 h1{
 	color:#c78c7c;
+	display:inline-block;
 }
+
+
+
+hr{color:#373543;}
 .review{
 
 	margin-top:70px;
@@ -31,7 +36,7 @@ h1{
 
 .review3{
 
-	margin-top:700px;
+	margin-top:630px;
 	margin-left:30px;
 	background-color: #c79c7c;
 	border-radius: 30px;
@@ -44,7 +49,7 @@ h1{
 .review4{
 
 	margin-top:40px;
-	margin-left:10px;
+    /*margin-left: 8px;*/
 	background-color: #c79c7c;
 	border-radius: 30px;
 	border-bottom-left-radius: 5px;
@@ -54,9 +59,8 @@ h1{
 
 
 .review5{
-
-	margin-top:70px;
-	margin-left:10px;
+	margin-top:310px;
+	/*margin-left: 8px;*/
 	background-color: #c79c7c;
 	border-radius: 30px;
 	border-bottom-left-radius: 5px;
@@ -66,8 +70,8 @@ h1{
 
 .review6{
 
-	margin-top:370px;
-	margin-left:10px;
+	margin-top:580px;
+	/*margin-left: 8px;*/
 	background-color: #c79c7c;
 	border-radius: 30px;
 	border-bottom-left-radius: 5px;
@@ -77,8 +81,8 @@ h1{
 
 .review7{
 
-	margin-top:700px;
-	margin-left:10px;
+	margin-top:850px;
+	/*margin-left: 8px;*/
 	background-color: #c79c7c;
 	border-radius: 30px;
 	border-bottom-left-radius: 5px;
@@ -145,3 +149,12 @@ size: 200px;
 }
 
 
+#home{
+	text-decoration:none;
+	background-color:#c79c7c;
+	text-decoration:none;
+	padding:10px;
+	border-radius: 8px;
+	
+	margin-left:1280px;
+}
